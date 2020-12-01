@@ -1,0 +1,17 @@
+D:\C# Project Class\store_mgmt\DTO\bin\Debug\DTO.dll
+D:\C# Project Class\store_mgmt\DTO\bin\Debug\DTO.pdb
+D:\C# Project Class\store_mgmt\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\C# Project Class\store_mgmt\DTO\obj\Debug\DTO.dll
+D:\C# Project Class\store_mgmt\DTO\obj\Debug\DTO.pdb
+D:\C# Project Class\store_mgmt\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+D:\C# Project Class\final\BTL\BTL\DTO\bin\Debug\DTO.dll
+D:\C# Project Class\final\BTL\BTL\DTO\bin\Debug\DTO.pdb
+D:\C# Project Class\final\BTL\BTL\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\C# Project Class\final\BTL\BTL\DTO\obj\Debug\DTO.dll
+D:\C# Project Class\final\BTL\BTL\DTO\obj\Debug\DTO.pdb
+D:\C# Project Class\final\BTL\BTL\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\DTO\bin\Debug\DTO.dll
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\DTO\bin\Debug\DTO.pdb
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\DTO\obj\Debug\DTO.dll
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\DTO\obj\Debug\DTO.pdb

@@ -1,0 +1,17 @@
+D:\C# Project Class\store_mgmt\Constant\bin\Debug\Constant.dll
+D:\C# Project Class\store_mgmt\Constant\bin\Debug\Constant.pdb
+D:\C# Project Class\store_mgmt\Constant\obj\Debug\Constant.csprojAssemblyReference.cache
+D:\C# Project Class\store_mgmt\Constant\obj\Debug\Constant.csproj.CoreCompileInputs.cache
+D:\C# Project Class\store_mgmt\Constant\obj\Debug\Constant.dll
+D:\C# Project Class\store_mgmt\Constant\obj\Debug\Constant.pdb
+D:\C# Project Class\final\BTL\BTL\Constant\bin\Debug\Constant.dll
+D:\C# Project Class\final\BTL\BTL\Constant\bin\Debug\Constant.pdb
+D:\C# Project Class\final\BTL\BTL\Constant\obj\Debug\Constant.csprojAssemblyReference.cache
+D:\C# Project Class\final\BTL\BTL\Constant\obj\Debug\Constant.csproj.CoreCompileInputs.cache
+D:\C# Project Class\final\BTL\BTL\Constant\obj\Debug\Constant.dll
+D:\C# Project Class\final\BTL\BTL\Constant\obj\Debug\Constant.pdb
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\Constant\bin\Debug\Constant.dll
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\Constant\bin\Debug\Constant.pdb
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\Constant\obj\Debug\Constant.csproj.CoreCompileInputs.cache
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\Constant\obj\Debug\Constant.dll
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\Constant\obj\Debug\Constant.pdb

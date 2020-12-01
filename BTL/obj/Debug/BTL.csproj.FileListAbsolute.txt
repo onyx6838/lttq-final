@@ -1,0 +1,639 @@
+C:\Users\tadan\source\repos\BTL\BTL\bin\Debug\BTL.exe.config
+C:\Users\tadan\source\repos\BTL\BTL\bin\Debug\BTL.exe
+C:\Users\tadan\source\repos\BTL\BTL\bin\Debug\BTL.pdb
+C:\Users\tadan\source\repos\BTL\BTL\obj\Debug\BTL.csprojAssemblyReference.cache
+C:\Users\tadan\source\repos\BTL\BTL\obj\Debug\BTL.Properties.Resources.resources
+C:\Users\tadan\source\repos\BTL\BTL\obj\Debug\BTL.csproj.GenerateResource.cache
+C:\Users\tadan\source\repos\BTL\BTL\obj\Debug\BTL.csproj.CoreCompileInputs.cache
+C:\Users\tadan\source\repos\BTL\BTL\obj\Debug\BTL.exe
+C:\Users\tadan\source\repos\BTL\BTL\obj\Debug\BTL.pdb
+C:\Users\tadan\source\repos\BTL\BTL\obj\Debug\BTL.frmMenuHeThong.resources
+C:\Users\tadan\source\repos\BTL\BTL\obj\Debug\BTL.FrmMain.resources
+C:\Users\tadan\source\repos\BTL\BTL\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\tadan\source\repos\BTL\BTL\obj\Debug\BTL.csproj.CopyComplete
+C:\Users\tadan\source\repos\BTL\BTL\obj\Debug\BTL.FrmMenuBaocao.resources
+C:\Users\tadan\source\repos\BTL\BTL\obj\Debug\BTL.FormMenuHoaDon.resources
+C:\Users\tadan\source\repos\BTL\BTL\obj\Debug\BTL.FormTimkiem.resources
+C:\Users\tadan\source\repos\BTL\BTL\obj\Debug\BTL.FormDanhSachHangHoa.resources
+C:\Users\tadan\source\repos\BTL\BTL\obj\Debug\BTL.FormKhachHang.resources
+C:\Users\tadan\source\repos\BTL\BTL\obj\Debug\BTL.FormNhacungcap.resources
+C:\Users\tadan\source\repos\BTL\BTL\obj\Debug\BTL.FormNhanVien.resources
+C:\Users\tadan\source\repos\BTL\BTL\obj\Debug\BTL.FrmHanghoa.resources
+C:\Users\tadan\source\repos\BTL\BTL\obj\Debug\BTL.FormBaocaosanpham.resources
+C:\Users\tadan\source\repos\BTL\BTL\obj\Debug\BTL.FormBaocaohoadon.resources
+C:\Users\tadan\source\repos\BTL\BTL\obj\Debug\BTL.FormBaocaonhanvien.resources
+C:\Users\tadan\source\repos\BTL\BTL\obj\Debug\BTL.FormBaocaokhachhang.resources
+C:\Users\tadan\Documents\BTL\BTL\BTL\bin\Debug\BTL.exe.config
+C:\Users\tadan\Documents\BTL\BTL\BTL\bin\Debug\BTL.exe
+C:\Users\tadan\Documents\BTL\BTL\BTL\bin\Debug\BTL.pdb
+C:\Users\tadan\Documents\BTL\BTL\BTL\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\tadan\Documents\BTL\BTL\BTL\obj\Debug\BTL.csprojAssemblyReference.cache
+C:\Users\tadan\Documents\BTL\BTL\BTL\obj\Debug\BTL.FormBaocaohoadon.resources
+C:\Users\tadan\Documents\BTL\BTL\BTL\obj\Debug\BTL.FormBaocaokhachhang.resources
+C:\Users\tadan\Documents\BTL\BTL\BTL\obj\Debug\BTL.FormBaocaonhanvien.resources
+C:\Users\tadan\Documents\BTL\BTL\BTL\obj\Debug\BTL.FormBaocaosanpham.resources
+C:\Users\tadan\Documents\BTL\BTL\BTL\obj\Debug\BTL.FormDanhSachHangHoa.resources
+C:\Users\tadan\Documents\BTL\BTL\BTL\obj\Debug\BTL.FormKhachHang.resources
+C:\Users\tadan\Documents\BTL\BTL\BTL\obj\Debug\BTL.FrmMenuBaocao.resources
+C:\Users\tadan\Documents\BTL\BTL\BTL\obj\Debug\BTL.FrmMenuHeThong.resources
+C:\Users\tadan\Documents\BTL\BTL\BTL\obj\Debug\BTL.FrmMain.resources
+C:\Users\tadan\Documents\BTL\BTL\BTL\obj\Debug\BTL.FormMenuHoaDon.resources
+C:\Users\tadan\Documents\BTL\BTL\BTL\obj\Debug\BTL.FormNhacungcap.resources
+C:\Users\tadan\Documents\BTL\BTL\BTL\obj\Debug\BTL.FormNhanVien.resources
+C:\Users\tadan\Documents\BTL\BTL\BTL\obj\Debug\BTL.FormTimkiem.resources
+C:\Users\tadan\Documents\BTL\BTL\BTL\obj\Debug\BTL.FrmHanghoa.resources
+C:\Users\tadan\Documents\BTL\BTL\BTL\obj\Debug\BTL.Properties.Resources.resources
+C:\Users\tadan\Documents\BTL\BTL\BTL\obj\Debug\BTL.csproj.GenerateResource.cache
+C:\Users\tadan\Documents\BTL\BTL\BTL\obj\Debug\BTL.csproj.CoreCompileInputs.cache
+C:\Users\tadan\Documents\BTL\BTL\BTL\obj\Debug\BTL.csproj.CopyComplete
+C:\Users\tadan\Documents\BTL\BTL\BTL\obj\Debug\BTL.exe
+C:\Users\tadan\Documents\BTL\BTL\BTL\obj\Debug\BTL.pdb
+C:\Users\tadan\source\repos\BTL\BTL\BTL\obj\Debug\BTL.csprojAssemblyReference.cache
+C:\Users\tadan\source\repos\BTL\BTL\BTL\obj\Debug\BTL.FormBaocaohoadon.resources
+C:\Users\tadan\source\repos\BTL\BTL\BTL\obj\Debug\BTL.FormBaocaokhachhang.resources
+C:\Users\tadan\source\repos\BTL\BTL\BTL\obj\Debug\BTL.FormBaocaonhanvien.resources
+C:\Users\tadan\source\repos\BTL\BTL\BTL\obj\Debug\BTL.FormBaocaosanpham.resources
+C:\Users\tadan\source\repos\BTL\BTL\BTL\obj\Debug\BTL.FormDanhSachHangHoa.resources
+C:\Users\tadan\source\repos\BTL\BTL\BTL\obj\Debug\BTL.FormKhachHang.resources
+C:\Users\tadan\source\repos\BTL\BTL\BTL\obj\Debug\BTL.FrmMenuBaocao.resources
+C:\Users\tadan\source\repos\BTL\BTL\BTL\obj\Debug\BTL.FrmMenuHeThong.resources
+C:\Users\tadan\source\repos\BTL\BTL\BTL\obj\Debug\BTL.FrmMain.resources
+C:\Users\tadan\source\repos\BTL\BTL\BTL\obj\Debug\BTL.FormMenuHoaDon.resources
+C:\Users\tadan\source\repos\BTL\BTL\BTL\obj\Debug\BTL.FormNhacungcap.resources
+C:\Users\tadan\source\repos\BTL\BTL\BTL\obj\Debug\BTL.FormNhanVien.resources
+C:\Users\tadan\source\repos\BTL\BTL\BTL\obj\Debug\BTL.FormTimkiem.resources
+C:\Users\tadan\source\repos\BTL\BTL\BTL\obj\Debug\BTL.FrmHanghoa.resources
+C:\Users\tadan\source\repos\BTL\BTL\BTL\obj\Debug\BTL.Properties.Resources.resources
+C:\Users\tadan\source\repos\BTL\BTL\BTL\obj\Debug\BTL.csproj.GenerateResource.cache
+C:\Users\tadan\source\repos\BTL\BTL\BTL\obj\Debug\BTL.csproj.CoreCompileInputs.cache
+C:\Users\tadan\source\repos\BTL\BTL\BTL\obj\Debug\BTL.exe
+C:\Users\tadan\source\repos\BTL\BTL\BTL\obj\Debug\BTL.pdb
+C:\Users\tadan\source\repos\BTL\BTL\BTL\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\tadan\source\repos\BTL\BTL\BTL\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\tadan\source\repos\BTL\BTL\BTL\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\tadan\source\repos\BTL\BTL\BTL\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\tadan\source\repos\BTL\BTL\BTL\bin\Debug\BTL.exe.config
+C:\Users\tadan\source\repos\BTL\BTL\BTL\bin\Debug\BTL.exe
+C:\Users\tadan\source\repos\BTL\BTL\BTL\bin\Debug\BTL.pdb
+C:\Users\tadan\source\repos\BTL\BTL\BTL\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\tadan\source\repos\BTL\BTL\BTL\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\tadan\source\repos\BTL\BTL\BTL\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\tadan\source\repos\BTL\BTL\BTL\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\tadan\source\repos\BTL\BTL\BTL\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\tadan\source\repos\BTL\BTL\BTL\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\tadan\source\repos\BTL\BTL\BTL\bin\Debug\EnvDTE.dll
+C:\Users\tadan\source\repos\BTL\BTL\BTL\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\tadan\source\repos\BTL\BTL\BTL\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\tadan\source\repos\BTL\BTL\BTL\bin\Debug\stdole.dll
+C:\Users\tadan\source\repos\BTL\BTL\BTL\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\tadan\source\repos\BTL\BTL\BTL\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\tadan\source\repos\BTL\BTL\BTL\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\tadan\source\repos\BTL\BTL\BTL\bin\Debug\Microsoft.MSXML.dll
+C:\Users\tadan\source\repos\BTL\BTL\BTL\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tadan\source\repos\BTL\BTL\BTL\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tadan\source\repos\BTL\BTL\BTL\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tadan\source\repos\BTL\BTL\BTL\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tadan\source\repos\BTL\BTL\BTL\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tadan\source\repos\BTL\BTL\BTL\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tadan\source\repos\BTL\BTL\BTL\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tadan\source\repos\BTL\BTL\BTL\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tadan\source\repos\BTL\BTL\BTL\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tadan\source\repos\BTL\BTL\BTL\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tadan\source\repos\BTL\BTL\BTL\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tadan\source\repos\BTL\BTL\BTL\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tadan\source\repos\BTL\BTL\BTL\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tadan\source\repos\BTL\BTL\BTL\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tadan\source\repos\BTL\BTL\BTL\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tadan\source\repos\BTL\BTL\BTL\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tadan\source\repos\BTL\BTL\BTL\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tadan\source\repos\BTL\BTL\BTL\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tadan\source\repos\BTL\BTL\BTL\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tadan\source\repos\BTL\BTL\BTL\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tadan\source\repos\BTL\BTL\BTL\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tadan\source\repos\BTL\BTL\BTL\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tadan\source\repos\BTL\BTL\BTL\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tadan\source\repos\BTL\BTL\BTL\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tadan\source\repos\BTL\BTL\BTL\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tadan\source\repos\BTL\BTL\BTL\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tadan\source\repos\BTL\BTL\BTL\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tadan\source\repos\BTL\BTL\BTL\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tadan\source\repos\BTL\BTL\BTL\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tadan\source\repos\BTL\BTL\BTL\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tadan\source\repos\BTL\BTL\BTL\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tadan\source\repos\BTL\BTL\BTL\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tadan\source\repos\BTL\BTL\BTL\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tadan\source\repos\BTL\BTL\BTL\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tadan\source\repos\BTL\BTL\BTL\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tadan\source\repos\BTL\BTL\BTL\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tadan\source\repos\BTL\BTL\BTL\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tadan\source\repos\BTL\BTL\BTL\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tadan\source\repos\BTL\BTL\BTL\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tadan\source\repos\BTL\BTL\BTL\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tadan\source\repos\BTL\BTL\BTL\obj\Debug\BTL.csproj.CopyComplete
+C:\Users\tadan\Desktop\BTL\BTL\BTL\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\tadan\Desktop\BTL\BTL\BTL\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\tadan\Desktop\BTL\BTL\BTL\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\tadan\Desktop\BTL\BTL\BTL\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\tadan\Desktop\BTL\BTL\BTL\bin\Debug\BTL.exe.config
+C:\Users\tadan\Desktop\BTL\BTL\BTL\bin\Debug\BTL.exe
+C:\Users\tadan\Desktop\BTL\BTL\BTL\bin\Debug\BTL.pdb
+C:\Users\tadan\Desktop\BTL\BTL\BTL\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\tadan\Desktop\BTL\BTL\BTL\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\tadan\Desktop\BTL\BTL\BTL\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\tadan\Desktop\BTL\BTL\BTL\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\tadan\Desktop\BTL\BTL\BTL\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\tadan\Desktop\BTL\BTL\BTL\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\tadan\Desktop\BTL\BTL\BTL\bin\Debug\EnvDTE.dll
+C:\Users\tadan\Desktop\BTL\BTL\BTL\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\tadan\Desktop\BTL\BTL\BTL\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\tadan\Desktop\BTL\BTL\BTL\bin\Debug\stdole.dll
+C:\Users\tadan\Desktop\BTL\BTL\BTL\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\tadan\Desktop\BTL\BTL\BTL\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\tadan\Desktop\BTL\BTL\BTL\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\tadan\Desktop\BTL\BTL\BTL\bin\Debug\Microsoft.MSXML.dll
+C:\Users\tadan\Desktop\BTL\BTL\BTL\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tadan\Desktop\BTL\BTL\BTL\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tadan\Desktop\BTL\BTL\BTL\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tadan\Desktop\BTL\BTL\BTL\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tadan\Desktop\BTL\BTL\BTL\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tadan\Desktop\BTL\BTL\BTL\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tadan\Desktop\BTL\BTL\BTL\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tadan\Desktop\BTL\BTL\BTL\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tadan\Desktop\BTL\BTL\BTL\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tadan\Desktop\BTL\BTL\BTL\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tadan\Desktop\BTL\BTL\BTL\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tadan\Desktop\BTL\BTL\BTL\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tadan\Desktop\BTL\BTL\BTL\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tadan\Desktop\BTL\BTL\BTL\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tadan\Desktop\BTL\BTL\BTL\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tadan\Desktop\BTL\BTL\BTL\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tadan\Desktop\BTL\BTL\BTL\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tadan\Desktop\BTL\BTL\BTL\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tadan\Desktop\BTL\BTL\BTL\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tadan\Desktop\BTL\BTL\BTL\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tadan\Desktop\BTL\BTL\BTL\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tadan\Desktop\BTL\BTL\BTL\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tadan\Desktop\BTL\BTL\BTL\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tadan\Desktop\BTL\BTL\BTL\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tadan\Desktop\BTL\BTL\BTL\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tadan\Desktop\BTL\BTL\BTL\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tadan\Desktop\BTL\BTL\BTL\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tadan\Desktop\BTL\BTL\BTL\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tadan\Desktop\BTL\BTL\BTL\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tadan\Desktop\BTL\BTL\BTL\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tadan\Desktop\BTL\BTL\BTL\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tadan\Desktop\BTL\BTL\BTL\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tadan\Desktop\BTL\BTL\BTL\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tadan\Desktop\BTL\BTL\BTL\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tadan\Desktop\BTL\BTL\BTL\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tadan\Desktop\BTL\BTL\BTL\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tadan\Desktop\BTL\BTL\BTL\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tadan\Desktop\BTL\BTL\BTL\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tadan\Desktop\BTL\BTL\BTL\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tadan\Desktop\BTL\BTL\BTL\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tadan\Desktop\BTL\BTL\BTL\obj\Debug\BTL.csprojAssemblyReference.cache
+C:\Users\tadan\Desktop\BTL\BTL\BTL\obj\Debug\BTL.FrmMenuBaocao.resources
+C:\Users\tadan\Desktop\BTL\BTL\BTL\obj\Debug\BTL.FrmMenuHeThong.resources
+C:\Users\tadan\Desktop\BTL\BTL\BTL\obj\Debug\BTL.Properties.Resources.resources
+C:\Users\tadan\Desktop\BTL\BTL\BTL\obj\Debug\BTL.csproj.GenerateResource.cache
+C:\Users\tadan\Desktop\BTL\BTL\BTL\obj\Debug\BTL.csproj.CoreCompileInputs.cache
+C:\Users\tadan\Desktop\BTL\BTL\BTL\obj\Debug\BTL.csproj.CopyComplete
+C:\Users\tadan\Desktop\BTL\BTL\BTL\obj\Debug\BTL.exe
+C:\Users\tadan\Desktop\BTL\BTL\BTL\obj\Debug\BTL.pdb
+C:\Users\tadan\Desktop\BTL\BTL\BTL\obj\Debug\BTL.frmChitietHDB.resources
+C:\Users\tadan\Desktop\BTL\BTL\BTL\obj\Debug\BTL.Properties.frmChitietHDN.resources
+C:\Users\tadan\Desktop\BTL\BTL\BTL\obj\Debug\BTL.frmBaocaoTongban.resources
+C:\Users\tadan\Desktop\BTL\BTL\BTL\obj\Debug\BTL.frmBaocaoTongnhap.resources
+C:\Users\tadan\Desktop\BTL\BTL\BTL\obj\Debug\BTL.frmChitietCalamviec.resources
+C:\Users\tadan\Desktop\BTL\BTL\BTL\obj\Debug\BTL.frmChitietChatlieu.resources
+C:\Users\tadan\Desktop\BTL\BTL\BTL\obj\Debug\BTL.frmChitietCongdung.resources
+C:\Users\tadan\Desktop\BTL\BTL\BTL\obj\Debug\BTL.frmChitietCongviec.resources
+C:\Users\tadan\Desktop\BTL\BTL\BTL\obj\Debug\BTL.frmChitietDonvitinh.resources
+C:\Users\tadan\Desktop\BTL\BTL\BTL\obj\Debug\BTL.frmChitietHanghoa.resources
+C:\Users\tadan\Desktop\BTL\BTL\BTL\obj\Debug\BTL.frmChitietKhachhang.resources
+C:\Users\tadan\Desktop\BTL\BTL\BTL\obj\Debug\BTL.frmChitietNhacungcap.resources
+C:\Users\tadan\Desktop\BTL\BTL\BTL\obj\Debug\BTL.frmChitietNhanvien.resources
+C:\Users\tadan\Desktop\BTL\BTL\BTL\obj\Debug\BTL.frmChitietNhomhanghoa.resources
+C:\Users\tadan\Desktop\BTL\BTL\BTL\obj\Debug\BTL.frmChitietNoisanxuat.resources
+C:\Users\tadan\Desktop\BTL\BTL\BTL\obj\Debug\BTL.frmChitietTheloai.resources
+C:\Users\tadan\Desktop\BTL\BTL\BTL\obj\Debug\BTL.frmMenuBaocaohoadon.resources
+C:\Users\tadan\Desktop\BTL\BTL\BTL\obj\Debug\BTL.frmMenuBaocaokhachhang.resources
+C:\Users\tadan\Desktop\BTL\BTL\BTL\obj\Debug\BTL.frmMenuBaocaonhanvien.resources
+C:\Users\tadan\Desktop\BTL\BTL\BTL\obj\Debug\BTL.frmMenuBaocaosanpham.resources
+C:\Users\tadan\Desktop\BTL\BTL\BTL\obj\Debug\BTL.frmMenuKhachHang.resources
+C:\Users\tadan\Desktop\BTL\BTL\BTL\obj\Debug\BTL.frmMain.resources
+C:\Users\tadan\Desktop\BTL\BTL\BTL\obj\Debug\BTL.frmMenuHoaDon.resources
+C:\Users\tadan\Desktop\BTL\BTL\BTL\obj\Debug\BTL.frmMenuNhacungcap.resources
+C:\Users\tadan\Desktop\BTL\BTL\BTL\obj\Debug\BTL.frmMenuNhanvien.resources
+C:\Users\tadan\Desktop\BTL\BTL\BTL\obj\Debug\BTL.frmTimkiemhanghoa.resources
+C:\Users\tadan\Desktop\BTL\BTL\BTL\obj\Debug\BTL.frmMenuHanghoa.resources
+C:\Users\tadan\Desktop\BTL\BTL\BTL\obj\Debug\BTL.frmTimkiemHoadonBan.resources
+C:\Users\tadan\Desktop\BTL\BTL\BTL\obj\Debug\BTL.frmTimkiemHoadonNhap.resources
+C:\Users\tadan\Desktop\BTL\BTL\BTL\obj\Debug\BTL.frmTimkiemKhachhang.resources
+C:\Users\tadan\Desktop\BTL\BTL\BTL\obj\Debug\BTL.frmTimkiemNhacungcap.resources
+C:\Users\tadan\Desktop\BTL\BTL\BTL\obj\Debug\BTL.frmTimkiemNhanvien.resources
+C:\Users\tadan\Desktop\BTL\BTL\BTL\obj\Debug\BTL.frmBaocaoSanpham.resources
+C:\Users\tadan\Desktop\BTL\BTL\BTL\obj\Debug\BTL.frmBaocaoKhachhangmuait.resources
+C:\Users\tadan\Desktop\BTL\BTL\BTL\obj\Debug\BTL.frmBaocaoKhachhangmuanhieu.resources
+C:\Users\tadan\Desktop\BTL\BTL\BTL\obj\Debug\BTL.frmBaocaoTopHDB.resources
+C:\Users\tadan\Desktop\BTL\BTL\BTL\obj\Debug\BTL.frmBaocaoTopHDN.resources
+C:\Users\tadan\Desktop\BTL\BTL\BTL\obj\Debug\BTL.frmDangkiTK.resources
+C:\Users\tadan\Desktop\BTL\BTL\BTL\obj\Debug\BTL.frmLogin.resources
+C:\Users\tadan\Desktop\BTL\BTL\BTL\obj\Debug\BTL.frmQuanlyTK.resources
+C:\Users\tadan\Desktop\BTL\BTL\BTL\obj\Debug\BTL.frmBanhang.resources
+C:\Users\tadan\Desktop\BTL\BTL\BTL\obj\Debug\BTL.frmBaocaoNhanVienBan.resources
+C:\Users\tadan\Desktop\BTL\BTL\BTL\obj\Debug\BTL.frmBaocaoNhanVienNhap.resources
+C:\Users\tadan\Desktop\BTL\BTL\BTL\obj\Debug\BTL.frmKhohang.resources
+C:\Users\tadan\Desktop\BTL\BTL\BTL\obj\Debug\BTL.frmNhapHang.resources
+D:\C# Project Class\final\BTL\BTL\BTL\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\C# Project Class\final\BTL\BTL\BTL\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\C# Project Class\final\BTL\BTL\BTL\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\C# Project Class\final\BTL\BTL\BTL\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\C# Project Class\final\BTL\BTL\BTL\bin\Debug\BTL.exe.config
+D:\C# Project Class\final\BTL\BTL\BTL\bin\Debug\BTL.exe
+D:\C# Project Class\final\BTL\BTL\BTL\bin\Debug\BTL.pdb
+D:\C# Project Class\final\BTL\BTL\BTL\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\C# Project Class\final\BTL\BTL\BTL\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\C# Project Class\final\BTL\BTL\BTL\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\C# Project Class\final\BTL\BTL\BTL\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\C# Project Class\final\BTL\BTL\BTL\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\C# Project Class\final\BTL\BTL\BTL\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\C# Project Class\final\BTL\BTL\BTL\bin\Debug\EnvDTE.dll
+D:\C# Project Class\final\BTL\BTL\BTL\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\C# Project Class\final\BTL\BTL\BTL\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\C# Project Class\final\BTL\BTL\BTL\bin\Debug\stdole.dll
+D:\C# Project Class\final\BTL\BTL\BTL\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\C# Project Class\final\BTL\BTL\BTL\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\C# Project Class\final\BTL\BTL\BTL\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\C# Project Class\final\BTL\BTL\BTL\bin\Debug\Microsoft.MSXML.dll
+D:\C# Project Class\final\BTL\BTL\BTL\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\C# Project Class\final\BTL\BTL\BTL\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\C# Project Class\final\BTL\BTL\BTL\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\C# Project Class\final\BTL\BTL\BTL\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\C# Project Class\final\BTL\BTL\BTL\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\C# Project Class\final\BTL\BTL\BTL\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\C# Project Class\final\BTL\BTL\BTL\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\C# Project Class\final\BTL\BTL\BTL\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\C# Project Class\final\BTL\BTL\BTL\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\C# Project Class\final\BTL\BTL\BTL\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\C# Project Class\final\BTL\BTL\BTL\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C# Project Class\final\BTL\BTL\BTL\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C# Project Class\final\BTL\BTL\BTL\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C# Project Class\final\BTL\BTL\BTL\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C# Project Class\final\BTL\BTL\BTL\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C# Project Class\final\BTL\BTL\BTL\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C# Project Class\final\BTL\BTL\BTL\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C# Project Class\final\BTL\BTL\BTL\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C# Project Class\final\BTL\BTL\BTL\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C# Project Class\final\BTL\BTL\BTL\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C# Project Class\final\BTL\BTL\BTL\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\C# Project Class\final\BTL\BTL\BTL\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\C# Project Class\final\BTL\BTL\BTL\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\C# Project Class\final\BTL\BTL\BTL\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\C# Project Class\final\BTL\BTL\BTL\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\C# Project Class\final\BTL\BTL\BTL\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\C# Project Class\final\BTL\BTL\BTL\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\C# Project Class\final\BTL\BTL\BTL\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\C# Project Class\final\BTL\BTL\BTL\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\C# Project Class\final\BTL\BTL\BTL\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\C# Project Class\final\BTL\BTL\BTL\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C# Project Class\final\BTL\BTL\BTL\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C# Project Class\final\BTL\BTL\BTL\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C# Project Class\final\BTL\BTL\BTL\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C# Project Class\final\BTL\BTL\BTL\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C# Project Class\final\BTL\BTL\BTL\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C# Project Class\final\BTL\BTL\BTL\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C# Project Class\final\BTL\BTL\BTL\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C# Project Class\final\BTL\BTL\BTL\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C# Project Class\final\BTL\BTL\BTL\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C# Project Class\final\BTL\BTL\BTL\obj\Debug\BTL.csprojAssemblyReference.cache
+D:\C# Project Class\final\BTL\BTL\BTL\obj\Debug\BTL.frmBanhang.resources
+D:\C# Project Class\final\BTL\BTL\BTL\obj\Debug\BTL.frmBaocaoNhanVienBan.resources
+D:\C# Project Class\final\BTL\BTL\BTL\obj\Debug\BTL.frmBaocaoNhanVienNhap.resources
+D:\C# Project Class\final\BTL\BTL\BTL\obj\Debug\BTL.frmBaocaoKhachhangmuait.resources
+D:\C# Project Class\final\BTL\BTL\BTL\obj\Debug\BTL.frmBaocaoKhachhangmuanhieu.resources
+D:\C# Project Class\final\BTL\BTL\BTL\obj\Debug\BTL.frmBaocaoSanpham.resources
+D:\C# Project Class\final\BTL\BTL\BTL\obj\Debug\BTL.frmBaocaoTongnhap.resources
+D:\C# Project Class\final\BTL\BTL\BTL\obj\Debug\BTL.frmBaocaoTongban.resources
+D:\C# Project Class\final\BTL\BTL\BTL\obj\Debug\BTL.frmBaocaoTopHDB.resources
+D:\C# Project Class\final\BTL\BTL\BTL\obj\Debug\BTL.frmChitietCalamviec.resources
+D:\C# Project Class\final\BTL\BTL\BTL\obj\Debug\BTL.frmChitietChatlieu.resources
+D:\C# Project Class\final\BTL\BTL\BTL\obj\Debug\BTL.frmChitietCongdung.resources
+D:\C# Project Class\final\BTL\BTL\BTL\obj\Debug\BTL.frmChitietCongviec.resources
+D:\C# Project Class\final\BTL\BTL\BTL\obj\Debug\BTL.frmChitietDonvitinh.resources
+D:\C# Project Class\final\BTL\BTL\BTL\obj\Debug\BTL.frmChitietHanghoa.resources
+D:\C# Project Class\final\BTL\BTL\BTL\obj\Debug\BTL.frmChitietHDB.resources
+D:\C# Project Class\final\BTL\BTL\BTL\obj\Debug\BTL.frmChitietKhachhang.resources
+D:\C# Project Class\final\BTL\BTL\BTL\obj\Debug\BTL.frmChitietNhacungcap.resources
+D:\C# Project Class\final\BTL\BTL\BTL\obj\Debug\BTL.frmChitietNhanvien.resources
+D:\C# Project Class\final\BTL\BTL\BTL\obj\Debug\BTL.frmChitietNhomhanghoa.resources
+D:\C# Project Class\final\BTL\BTL\BTL\obj\Debug\BTL.frmChitietNoisanxuat.resources
+D:\C# Project Class\final\BTL\BTL\BTL\obj\Debug\BTL.frmChitietTheloai.resources
+D:\C# Project Class\final\BTL\BTL\BTL\obj\Debug\BTL.frmDangkiTK.resources
+D:\C# Project Class\final\BTL\BTL\BTL\obj\Debug\BTL.frmKhohang.resources
+D:\C# Project Class\final\BTL\BTL\BTL\obj\Debug\BTL.frmLogin.resources
+D:\C# Project Class\final\BTL\BTL\BTL\obj\Debug\BTL.frmMenuBaocaohoadon.resources
+D:\C# Project Class\final\BTL\BTL\BTL\obj\Debug\BTL.frmMenuBaocaokhachhang.resources
+D:\C# Project Class\final\BTL\BTL\BTL\obj\Debug\BTL.frmMenuBaocaonhanvien.resources
+D:\C# Project Class\final\BTL\BTL\BTL\obj\Debug\BTL.frmMenuBaocaosanpham.resources
+D:\C# Project Class\final\BTL\BTL\BTL\obj\Debug\BTL.frmMenuKhachHang.resources
+D:\C# Project Class\final\BTL\BTL\BTL\obj\Debug\BTL.frmMenuBaocao.resources
+D:\C# Project Class\final\BTL\BTL\BTL\obj\Debug\BTL.FrmMenuHeThong.resources
+D:\C# Project Class\final\BTL\BTL\BTL\obj\Debug\BTL.frmMain.resources
+D:\C# Project Class\final\BTL\BTL\BTL\obj\Debug\BTL.frmMenuHoaDon.resources
+D:\C# Project Class\final\BTL\BTL\BTL\obj\Debug\BTL.frmMenuNhacungcap.resources
+D:\C# Project Class\final\BTL\BTL\BTL\obj\Debug\BTL.frmMenuNhanvien.resources
+D:\C# Project Class\final\BTL\BTL\BTL\obj\Debug\BTL.frmNhapHang.resources
+D:\C# Project Class\final\BTL\BTL\BTL\obj\Debug\BTL.frmQuanlyTK.resources
+D:\C# Project Class\final\BTL\BTL\BTL\obj\Debug\BTL.frmTimkiemhanghoa.resources
+D:\C# Project Class\final\BTL\BTL\BTL\obj\Debug\BTL.frmMenuHanghoa.resources
+D:\C# Project Class\final\BTL\BTL\BTL\obj\Debug\BTL.frmTimkiemHoadonBan.resources
+D:\C# Project Class\final\BTL\BTL\BTL\obj\Debug\BTL.frmTimkiemHoadonNhap.resources
+D:\C# Project Class\final\BTL\BTL\BTL\obj\Debug\BTL.frmTimkiemKhachhang.resources
+D:\C# Project Class\final\BTL\BTL\BTL\obj\Debug\BTL.frmTimkiemNhacungcap.resources
+D:\C# Project Class\final\BTL\BTL\BTL\obj\Debug\BTL.frmTimkiemNhanvien.resources
+D:\C# Project Class\final\BTL\BTL\BTL\obj\Debug\BTL.Properties.frmChitietHDN.resources
+D:\C# Project Class\final\BTL\BTL\BTL\obj\Debug\BTL.frmBaocaoTopHDN.resources
+D:\C# Project Class\final\BTL\BTL\BTL\obj\Debug\BTL.Properties.Resources.resources
+D:\C# Project Class\final\BTL\BTL\BTL\obj\Debug\BTL.csproj.GenerateResource.cache
+D:\C# Project Class\final\BTL\BTL\BTL\obj\Debug\BTL.csproj.CoreCompileInputs.cache
+D:\C# Project Class\final\BTL\BTL\BTL\obj\Debug\BTL.csproj.CopyComplete
+D:\C# Project Class\final\BTL\BTL\BTL\obj\Debug\BTL.exe
+D:\C# Project Class\final\BTL\BTL\BTL\obj\Debug\BTL.pdb
+D:\C# Project Class\final\BTL\BTL\BTL\bin\Debug\BUS.dll
+D:\C# Project Class\final\BTL\BTL\BTL\bin\Debug\Constant.dll
+D:\C# Project Class\final\BTL\BTL\BTL\bin\Debug\DAL.dll
+D:\C# Project Class\final\BTL\BTL\BTL\bin\Debug\DTO.dll
+D:\C# Project Class\final\BTL\BTL\BTL\bin\Debug\Handling.dll
+D:\C# Project Class\final\BTL\BTL\BTL\bin\Debug\BUS.pdb
+D:\C# Project Class\final\BTL\BTL\BTL\bin\Debug\Constant.pdb
+D:\C# Project Class\final\BTL\BTL\BTL\bin\Debug\DAL.pdb
+D:\C# Project Class\final\BTL\BTL\BTL\bin\Debug\DTO.pdb
+D:\C# Project Class\final\BTL\BTL\BTL\bin\Debug\Handling.pdb
+D:\C# Project Class\final\BTL\BTL\BTL\obj\Debug\RdlCompile.cache
+D:\C# Project Class\final\BTL\BTL\BTL\obj\Debug\RdlCompile.compiled
+D:\C# Project Class\final\BTL\BTL\BTL\bin\Debug\Report1.rdlc
+D:\C# Project Class\final\BTL\BTL\BTL\bin\Debug\Report2.rdlc
+D:\C# Project Class\final\BTL\BTL\BTL\bin\Debug\Report3.rdlc
+D:\C# Project Class\final\BTL\BTL\BTL\bin\Debug\Report4.rdlc
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\bin\Debug\Report1.rdlc
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\bin\Debug\Report2.rdlc
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\bin\Debug\Report3.rdlc
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\bin\Debug\Report4.rdlc
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\bin\Debug\BTL.exe.config
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\bin\Debug\BTL.exe
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\bin\Debug\BTL.pdb
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\bin\Debug\BUS.dll
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\bin\Debug\Constant.dll
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\bin\Debug\DAL.dll
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\bin\Debug\DTO.dll
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\bin\Debug\Handling.dll
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\bin\Debug\EnvDTE.dll
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\bin\Debug\stdole.dll
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\bin\Debug\Microsoft.MSXML.dll
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\bin\Debug\BUS.pdb
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\bin\Debug\Constant.pdb
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\bin\Debug\DAL.pdb
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\bin\Debug\DTO.pdb
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\bin\Debug\Handling.pdb
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.csprojAssemblyReference.cache
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.frmBanhang.resources
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.frmBaocaoNhanVienBan.resources
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.frmBaocaoNhanVienNhap.resources
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.frmBaocaoKhachhangmuait.resources
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.frmBaocaoKhachhangmuanhieu.resources
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.frmBaocaoSanpham.resources
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.frmBaocaoTongnhap.resources
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.frmBaocaoTongban.resources
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.frmBaocaoTopHDB.resources
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.frmChitietCalamviec.resources
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.frmChitietChatlieu.resources
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.frmChitietCongdung.resources
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.frmChitietCongviec.resources
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.frmChitietDonvitinh.resources
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.frmChitietHanghoa.resources
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.frmChitietHDB.resources
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.frmChitietKhachhang.resources
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.frmChitietNhacungcap.resources
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.frmChitietNhanvien.resources
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.frmChitietNhomhanghoa.resources
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.frmChitietNoisanxuat.resources
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.frmChitietTheloai.resources
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.frmDangkiTK.resources
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.frmKhohang.resources
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.frmLogin.resources
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.frmMenuBaocaohoadon.resources
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.frmMenuBaocaokhachhang.resources
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.frmMenuBaocaonhanvien.resources
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.frmMenuBaocaosanpham.resources
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.frmMenuKhachHang.resources
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.frmMenuBaocao.resources
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.FrmMenuHeThong.resources
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.frmMain.resources
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.frmMenuHoaDon.resources
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.frmMenuNhacungcap.resources
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.frmMenuNhanvien.resources
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.frmNhapHang.resources
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.frmQuanlyTK.resources
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.frmTimkiemhanghoa.resources
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.frmMenuHanghoa.resources
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.frmTimkiemHoadonBan.resources
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.frmTimkiemHoadonNhap.resources
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.frmTimkiemKhachhang.resources
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.frmTimkiemNhacungcap.resources
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.frmTimkiemNhanvien.resources
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.Properties.frmChitietHDN.resources
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.frmBaocaoTopHDN.resources
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.Properties.Resources.resources
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.csproj.GenerateResource.cache
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\obj\Debug\RdlCompile.cache
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\obj\Debug\RdlCompile.compiled
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.csproj.CoreCompileInputs.cache
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.csproj.CopyComplete
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.exe
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.pdb
+C:\Users\tadan\Downloads\Download\Compressed\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.frmRegistration.resources
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\bin\Debug\BTL.exe.config
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\bin\Debug\BTL.exe
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\bin\Debug\BTL.pdb
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\bin\Debug\BUS.dll
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\bin\Debug\Constant.dll
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\bin\Debug\DTO.dll
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\bin\Debug\Handling.dll
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\bin\Debug\DAL.dll
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\bin\Debug\EnvDTE.dll
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\bin\Debug\stdole.dll
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\bin\Debug\Microsoft.MSXML.dll
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\bin\Debug\BUS.pdb
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\bin\Debug\Constant.pdb
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\bin\Debug\DTO.pdb
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\bin\Debug\Handling.pdb
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\bin\Debug\DAL.pdb
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.csprojAssemblyReference.cache
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.frmBanhang.resources
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.frmBaocaoNhanVienBan.resources
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.frmBaocaoNhanVienNhap.resources
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.frmBaocaoKhachhangmuait.resources
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.frmBaocaoKhachhangmuanhieu.resources
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.frmBaocaoSanpham.resources
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.frmBaocaoTongnhap.resources
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.frmBaocaoTongban.resources
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.frmBaocaoTopHDB.resources
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.frmChitietCalamviec.resources
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.frmChitietChatlieu.resources
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.frmChitietCongdung.resources
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.frmChitietCongviec.resources
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.frmChitietDonvitinh.resources
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.frmChitietHanghoa.resources
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.frmChitietHDB.resources
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.frmChitietKhachhang.resources
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.frmChitietNhacungcap.resources
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.frmChitietNhanvien.resources
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.frmChitietNhomhanghoa.resources
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.frmChitietNoisanxuat.resources
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.frmChitietTheloai.resources
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.frmDangkiTK.resources
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.frmKhohang.resources
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.frmLogin.resources
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.frmMenuBaocaohoadon.resources
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.frmMenuBaocaokhachhang.resources
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.frmMenuBaocaonhanvien.resources
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.frmMenuBaocaosanpham.resources
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.frmMenuKhachHang.resources
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.frmMenuBaocao.resources
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.FrmMenuHeThong.resources
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.frmMain.resources
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.frmMenuHoaDon.resources
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.frmMenuNhacungcap.resources
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.frmMenuNhanvien.resources
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.frmNhapHang.resources
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.frmQuanlyTK.resources
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.frmRegistration.resources
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.frmTimkiemhanghoa.resources
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.frmMenuHanghoa.resources
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.frmTimkiemHoadonBan.resources
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.frmTimkiemHoadonNhap.resources
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.frmTimkiemKhachhang.resources
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.frmTimkiemNhacungcap.resources
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.frmTimkiemNhanvien.resources
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.Properties.frmChitietHDN.resources
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.frmBaocaoTopHDN.resources
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.Properties.Resources.resources
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.csproj.GenerateResource.cache
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\obj\Debug\RdlCompile.cache
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\obj\Debug\RdlCompile.compiled
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.csproj.CoreCompileInputs.cache
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.csproj.CopyComplete
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.exe
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.pdb
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\C# Project Class\lttq-final-master\lttq-final-master\lttq-final-master\BTL\obj\Debug\BTL.exe.config
